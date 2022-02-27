@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation by his Excellency Sir Thomas Fairfax: concerning the proceedings of some ministers of the Church of England. The copy of a petition to the Kings Majestie with a representation of the desires of divers clergy-men. And His Excellencies resolution concerning the insolencies exercised by some, to abuse his Excellency and his Councell of Warre.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84902</idno>
+            <idno type="STC">Wing F217</idno>
+            <idno type="STC">Thomason E401_42</idno>
+            <idno type="STC">ESTC R201809</idno>
+            <idno type="EEBO-CITATION">99862303</idno>
+            <idno type="PROQUEST">99862303</idno>
+            <idno type="VID">114457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114457)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation by his Excellency Sir Thomas Fairfax: concerning the proceedings of some ministers of the Church of England. The copy of a petition to the Kings Majestie with a representation of the desires of divers clergy-men. And His Excellencies resolution concerning the insolencies exercised by some, to abuse his Excellency and his Councell of Warre.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Smith,</publisher>
+                  <pubPlace>Cambridge, :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114457:1" rendition="simple:additions"/>
+            <p>A PROCLAMATION By his Excellency Sir <hi>THOMAS FAIRFAX:</hi> Concerning The proceedings of ſome Miniſters of the CHURCH of ENGLAND.</p>
+            <p>THE <hi>Copy of a Petition to the</hi> KINGS MAJESTIE WITH <hi>A Repreſentation of the Deſires of divers Clergy-men.</hi>
+            </p>
+            <p>AND His Excellencies Reſolution concerning the inſolencies exerciſed by ſome, to abuſe his <hi>Excellency</hi> and his Councell of WARRE.</p>
+            <p>
+               <add>Aug: 14<g ref="char:punc">▪</g>
+               </add> 
+               <hi>CAMBRIDGE,</hi> Printed for <hi>Nathaniel Smith, Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="formal_statement">
+            <pb facs="tcp:114457:2"/>
+            <pb n="1" facs="tcp:114457:2"/>
+            <head>A PROCLAMATION By his Excellency Sir <hi>THOMAS FAIRFAX: Concerning the proceedings of ſome Miniſters of the Church of</hi> England WITH His Excellencies Reſolution concer<g ref="char:EOLhyphen"/>ning the inſolencies exerciſed by ſome to abuſe his Excellency and his <hi>Councell of Warre.</hi>
+            </head>
+            <p>VVHEREAS it appeares upon ſufficient proofe, that many violent Tumults and outrages, are committed by ſeverall perſons, a<g ref="char:EOLhyphen"/>gainſt
+<pb n="2" facs="tcp:114457:3"/>divers Miniſters, placed by Order, or Ordinance of Parliament, in ſequeſtred Livings, and for ſuch their violent carriage to, and detain<g ref="char:EOLhyphen"/>ing from the ſaid Miniſters, their pro<g ref="char:EOLhyphen"/>fits; there is pretended by the ſaid parties, power and authority from the Generall and the Army: And for the more plauſible juſtifying of their undue pretences herein, have cauſed to be Printed and Publiſhed, a Pam<g ref="char:EOLhyphen"/>phlet intituled TVVO PETITIONS of the ſequeſtred Clergy of England and VVales. One to the Kings moſt Excellent Majeſty; the other to Sir THOMAS FAIRFAX, with a (pretended) Declaration of the Generall and His Councell of VVar thereupon; of all which actions as aforeſaid; VVee cannot but teſtifie
+<pb n="3" facs="tcp:114457:3"/>a very ill reſentment, and doe hereby declare a diſlike of ſuch proceedings, diſclaiming not onely the actions themſelves to have had any incou<g ref="char:EOLhyphen"/>ragement from us, but alſo any ends or intentions to that purpoſe. And to the clearing of our ſelves herein, VVee ſhall henceforth indevour the bringing to condigne puniſhment, ſuch who have or ſhall exerciſe the like inſolencies upon any pretence whatſoever.</p>
+            <closer>
+               <dateline>Given under my Hand and Seale, <date>the 11 of <hi>Auguſt,</hi> 1647.</date>
+               </dateline>
+               <signed>T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:114457:4"/>
+            <head>To the Kings moſt Excellent Majeſty.</head>
+            <head type="sub">The Humble Petition of many thouſands of Your Majeſties Loyall Subjects, the poore ſequeſtred Clergy of <hi>England</hi> and <hi>Wales.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas your Petitioners have a long time been deſtitute of all lively-hood, by meanes of ſequeſtration of their Eſtates and other loſſes, and are at preſent driven to extreame neceſſities how to provide for themſelves and their Families, and the ſeaſon now approaching for the receiving the bene<g ref="char:EOLhyphen"/>fits of the Harveſt, before which time, if ſome cha<g ref="char:EOLhyphen"/>ritable courſe be not taken, they are like to ſtarve or beg another yeare.</p>
+            <p>May it therefore pleaſe your moſt Sacred Majeſty to take our ſad condition into Your Gracious con<g ref="char:EOLhyphen"/>ſideration &amp; care, that ſome courſe may be taken for our ſpeedy reliefe, as may preſerve us a live, &amp; inable us to doe more ſervice in Gods Church to Your Majeſty and the Kingdome.</p>
+            <p>
+               <hi>And as in duty bound, we ſhall ever pray for Your Majeſties happie eſtabliſhment, and long and proſperous Reigne.</hi>
+            </p>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:114457:4"/>
+            <head>To his Excellency Sir <hi>Thomas Fairfax.</hi>
+            </head>
+            <head type="sub">The humble Petition of many thouſands of the poore ſequeſtred Clergie of <hi>England</hi> and <hi>Wales.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas the eyes of all the oppreſſed people of the Kingdome are fixed upon Your Excellency and the Army as the great Inſtruments (under God) to reſtore them to their legal Rights and Liberties, which they doe juſty ground up<g ref="char:EOLhyphen"/>on Your ſeverall Declarations publiſhed to the World.</p>
+            <p>And whereas your Petitioners (a conſiderable number of the free borne men of this Kingdome) have been for divers yeares outed of their lively-hood and freeholds, contrary to <hi>Magna Charta</hi> &amp; other fundamentall Lawe of the Land, by the arbitrary power of Committees; whoſe proceedings uſually have been by no Rule of any known Law but by their owne wills: of whoſe orders no Record is kept, nor ſcarce any notes or memorials, whereby it may appeare when by whom, or for what your Petitioners were removed, the Committees for ſcandalous and for plundered Miniſters (by whom the greateſt part are turned out) being grounded not ſo much as upon any Ordinance of both Houſes; the moſt of your Pe<g ref="char:EOLhyphen"/>titioners outed for refuſing the Covenant, or adhering to the King and the Religion eſtabliſhed according to their Judge<g ref="char:EOLhyphen"/>ments and Conſciences; and, of thoſe, diverſe were never cal<g ref="char:EOLhyphen"/>led to anſwer, ſcared one had any Articles proved againſt him by oath, or other legall proceſſe, and ſome put out upon pri<g ref="char:EOLhyphen"/>vate information given to the Chaire-man Maſter <hi>White:</hi> by which unheard of proceedings not to be parallelled in any age
+<pb n="6" facs="tcp:114457:5"/>Your Petitoners, who have lived heretofore in good eſteem, according to their Calling, Degrees,, Birth and Education, are reduced to extream miſery and want, with their Wives and Children, that they muſt either ſtarve or begge, if ſome ſpeedy courſe be not taken for their releife. And whereas thoſe who are put into our places, labour by all meanes to ſtir up the people to involve this Kingdome in a new war, and are generally men ignorant and unable to inſtruct the People, and many of them ſcandalous in their practiſes, if impartially examined, and di<g ref="char:EOLhyphen"/>vers of them hold three or foure of the beſt Benefices, whilſt divers other Churches are void and without any conſtant Preacher: And Your Petitioners are ready to ſubmit them<g ref="char:EOLhyphen"/>ſelves for their Rights to tryall by the knowne Laws of the of the Land, and if any appeare guilty of any legal ſcandal (which we know to have been unjuſtly charged upon many, and is a great part of their preſent ſufferings) we ſhall leave them to undergoe the ſevereſt puniſhment and cenſure, which by any knowne Law can be inflicted.</p>
+            <p>And foraſmuch as the maine profits of our Benefices conſiſt in the Harveſt which is now at hand; which many of the preſent poſſeſſors, if they could receive, would preſently be gon, where<g ref="char:EOLhyphen"/>by the burthen of the Cure will lye upon Your Petitioners, having nothing to live upon all the next yeare.</p>
+            <p>
+               <hi>Your Petitioners therefore Humbly pray, that Your Excellency would bee pleaſed to make ſtay of the profits of this Harveſt, in ſuch way as Your Excellency ſhall think fit, that ſuch as are charged with any legal ſcandal, may come to a juſt tryal, and both they (if they be found innocent) and the reſt may injoy their Rights, and have the benefit of Subjects, according to the knowne Law of the Land, and your Petitioners ſhall ever pray, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114457:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
